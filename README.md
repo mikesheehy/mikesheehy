@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="100%" src="https://mikesheehy.github.io/images/header.jpg"/>
+<h2>Let's Build Something Great Together!
+  <a href="https://www.linkedin.com/in/mbsheehy/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" target="_blank" title="LinkedIn" align="right"/></a>
+ <a href="https://twitter.com/_MikeSheehy"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" target="_blank" title="Twitter" align="right"/></a></h2>
+<img width="100%" src="html.jpg"/>
 
 <div>
   <h2>Currently Learning</h2>
@@ -30,9 +33,4 @@ Here are some ideas to get you started:
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/csharp.svg" title="C#" />
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/dotnet.svg" color="#512BD4" title=".Net"/>
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/git.svg" style="background-color:#F05032;" title="Git"/>
-  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#F05032">
-
-  <h2>Follow Me</h2>
-  <a href="https://twitter.com/_MikeSheehy"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" title="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/mbsheehy/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" title="LinkedIn"/></a>
 </div>
