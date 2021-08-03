@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h2>Let's Build Something Great Together!
   <a href="https://www.linkedin.com/in/mbsheehy/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" target="_blank" title="LinkedIn" align="right"/></a>
- <a href="https://twitter.com/_MikeSheehy"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" target="_blank" title="Twitter" align="right"/></a></h2>
+</h2>
 <img width="100%" src="html.jpg"/>
 
 <div>
