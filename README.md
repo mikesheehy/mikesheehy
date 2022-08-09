@@ -1,3 +1,4 @@
+ <link rel="stylesheet" href="style.css">
 <h2>👋 Hi, I'm Mike!</h2>
 
 <!--**mikesheehy/mikesheehy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +31,7 @@ Here are some ideas to get you started:-->
 </picture>
 -->
 
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/amazonaws.svg" title="AWS" />
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/amazonaws.svg" title="AWS" class="filter-green"//>
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/mongodb.svg" title="MongoDB" />
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/springboot.svg" title="Spring Boot" />
   
