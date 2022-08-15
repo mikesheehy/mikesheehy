@@ -38,7 +38,7 @@ Here are some ideas to get you started:-->
   <h2>Skills</h2>
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/html5.svg" title="HTML 5"/>
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/css3.svg" title="Spring"title="CSS 3"/>
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/bootstrap.svg" title="Bootstrap"/>
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/bootstrap.svg" title="Bootstrap"/>
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/java.svg" title="Java"/>
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/spring.svg" title="Spring"/>
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/csharp.svg" title="C#" />
