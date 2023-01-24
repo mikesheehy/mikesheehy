@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Mike!
-👨‍💻 Full Stack Web Developer<br>🔭 Pursuing an AWS certification<br>🌱 Growing Back End Skills<br>💼 Looking to Collaborate<br>🌎 mikesheehy.github.io<br>
+👨‍💻 Full Stack Web Developer<br>🔭 Pursuing an AWS certification<br>💼 Looking to Collaborate<br>🌎 mikesheehy.github.io<br>
 
 
 # 🌐 Socials:
@@ -11,12 +11,10 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![OpenJDK](https://img.shields.io/badge/openjdk-%FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![OpenJDK](https://img.shields.io/badge/java-%FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -25,7 +23,6 @@
 # 🌱 Learning:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,8 +30,9 @@
 
 <!--https://github.com/Ileriayo/markdown-badges-->
 
-# Let's Build Something Great Together
-<img width="100%" src="html.jpg"/>
+<!-- Placeholder for porfolio pieces
+# My Projects
+<img width="100%" src="html.jpg"/> -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mikesheehy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
