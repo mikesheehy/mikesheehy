@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Mike!
-👨‍💻 Full Stack Web Developer<br>🔭 Pursuing an AWS certification<br>💼 Looking to Collaborate<br>🌎 mikesheehy.github.io<br>
+👨‍💻 Full Stack Software Engineer<br>🔭 Working on AWS and Java projects<br>💼 Looking to Collaborate<br>🌎 mikesheehy.github.io<br>
 
 
 # 🌐 Socials:
