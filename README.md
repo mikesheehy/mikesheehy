@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Mike!
-👨‍💻 Full Stack Software Engineer<br>🔭 Working on AWS and Java projects<br>💼 Looking to Collaborate<br>🌎 mikesheehy.github.io<br>
+👨‍💻 Full Stack Software Engineer<br>🔭 Working on AWS and Java projects<br>💼 Looking to Collaborate<br>🌎 mikesheehy.net<br>
 
 
 <!--# 🌐 Socials:
