@@ -1,4 +1,7 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&text=Let's%20Learn%20Together!&animation=fadeIn&height=160&section=header&theme=transparent"/>
+</p>
+<!--2,12,19,21,23,26,30-->
 # 👋 Hi, I'm Mike!
 👨‍💻 Full Stack Software Engineer<br>🔭 Working on AWS and Java projects<br>💼 Looking to Collaborate<br>🌎 mikesheehy.net<br>
 
@@ -33,4 +36,6 @@
 <!-- Placeholder for porfolio pieces
 # My Projects
 <img width="100%" src="html.jpg"/> -->
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+</p>
