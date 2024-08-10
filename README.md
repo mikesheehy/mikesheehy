@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&text=Let's%20Learn%20Together!&animation=fadeIn&height=160&section=header&theme=transparent"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&text=Building%20Cloud%20Things!&animation=fadeIn&height=160&section=header&theme=transparent"/>
 </p>
-<!--2,12,19,21,23,26,30-->
+<!-- Color options: 2,12,19,21,23,26,30-->
+
 # 👋 Hi, I'm Mike!
-👨‍💻 Full Stack Software Engineer<br>🔭 Working on AWS and Java projects<br>💼 Looking to Collaborate<br>🌎 mikesheehy.net<br>
+👨‍💻 Full Stack Software Engineer<br>🔭 Working on AWS and Java projects<br>💼 Looking to Collaborate<br>🌎 <a href="https://mikesheehy.net/">mikesheehy.net</a><br>
 
-
-<!--# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sheehy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mbsheehy)-->
+# 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sheehy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mbsheehy)
 
 # 💻 Tech Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -22,6 +22,15 @@
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+# 💻 Cloud Skills:
+<p align="left">
+<img src="https://www.svgrepo.com/show/353460/aws-s3.svg" alt="AWS S3 Logo" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/353449/aws-ec2.svg" alt="AWS EC2 Logo" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/353448/aws-codedeploy.svg" alt="AWS CodeDeploy Logo" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/353442/aws-cloudfront.svg" alt="AWS CloudFront Logo" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/353459/aws-route53.svg" alt="AWS Route53 Logo" width="50" height="50"/>
+</p>
 
 
 # 🌱 Learning:
