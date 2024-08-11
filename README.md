@@ -10,6 +10,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sheehy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mbsheehy)
 
 # 💻 Tech Skills:
+<p align="left">
+  <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML5 Logo" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS3 Logo" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/452234/java.svg" alt="Java Logo" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/376350/spring.svg" alt="Spring Logo" width="50" height="50"/>
+</p>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -40,7 +48,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-<!--https://github.com/Ileriayo/markdown-badges-->
+<!--GitHub Stats (https://github.com/anuraghazra/github-readme-stats/tree/master)-->
+<!--Header and footer https://github.com/kyechan99/capsule-render-->
 
 <!-- Placeholder for porfolio pieces
 # My Projects
