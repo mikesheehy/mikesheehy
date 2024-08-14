@@ -16,16 +16,11 @@
   <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
   <img src="https://www.svgrepo.com/show/452234/java.svg" alt="Java Logo" width="50" height="50"/>
   <img src="https://www.svgrepo.com/show/376350/spring.svg" alt="Spring Logo" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/354051/maven.svg" alt="Maven Logo" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/354454/tomcat.svg" alt="Tomcat Logo" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="Bootstrap Logo" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/374171/vscode.svg" alt="VSCode Logo" width="50" height="50"/>
 </p>
-
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![OpenJDK](https://img.shields.io/badge/java-%FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 # ☁️ Cloud Skills:
 <p align="left">
@@ -38,11 +33,11 @@
 
 
 # 🌱 Learning:
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+<p align="left">
+<img src="https://www.svgrepo.com/show/452156/angular.svg" alt="Angular Logo" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman Logo" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/354090/mongodb.svg" alt="MongoDB Logo" width="50" height="50"/>
+</p>
 
 <!--GitHub Stats (https://github.com/anuraghazra/github-readme-stats/tree/master)-->
 <!--Header and footer https://github.com/kyechan99/capsule-render-->
