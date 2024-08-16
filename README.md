@@ -42,6 +42,10 @@
 <!--GitHub Stats (https://github.com/anuraghazra/github-readme-stats/tree/master)-->
 <!--Header and footer https://github.com/kyechan99/capsule-render-->
 
+# 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!-- Placeholder for porfolio pieces
 # My Projects
 <img width="100%" src="html.jpg"/> -->
