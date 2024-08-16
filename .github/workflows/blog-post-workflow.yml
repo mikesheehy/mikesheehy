@@ -14,6 +14,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in Hashnode posts
-        uses: mikesheehy/blog-post-workflow@v1
+        uses: mikesheehy/.github/blog-post-workflow@v1
         with:
           feed_list: "https://mikesheehy.hashnode.dev/rss.xml"
