@@ -44,11 +44,7 @@
 
 # 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Pass the AI-102 Azure AI Engineer Associate Certification](https://blog.rishabkumar.com/pass-ai-102-azure-ai-engineer-associate)
-- [The Digital Thief: How Smartphones Are Robbing Us!](https://blog.rishabkumar.com/how-smartphones-are-robbing-us)
-- [The Cloud Resume API Challenge - Beginner Cloud Project](https://blog.rishabkumar.com/cloud-resume-api-challenge)
-- [How I passed the Azure AZ-204 Certification Exam](https://blog.rishabkumar.com/azure-az-204-study-guide)
-- [Should you include .terraform.lock.hcl in .gitignore?](https://blog.rishabkumar.com/terraform-lock-hcl-to-gitignore-or-commit)
+- [Installing Git and Syncing with GitHub](https://mikesheehy.hashnode.dev/installing-git-and-syncing-with-github)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Placeholder for porfolio pieces
