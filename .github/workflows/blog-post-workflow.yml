@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
-          feed_list: "https://blog.rishabkumar.com/rss.xml"
+          feed_list: "mikesheehy.hashnode.dev/rss.xml"
