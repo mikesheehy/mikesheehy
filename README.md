@@ -6,8 +6,8 @@
 # 👋 Hi, I'm Mike!
 👨‍💻 Full Stack Software Engineer<br>🔭 Working on AWS and Java projects<br>💼 Looking to Collaborate<br>🌎 <a href="https://mikesheehy.net/">mikesheehy.net</a><br>
 
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sheehy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mbsheehy)
+<!--# 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sheehy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mbsheehy)-->
 
 # 💻 Tech Skills:
 <p align="left">
