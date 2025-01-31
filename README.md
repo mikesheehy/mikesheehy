@@ -44,6 +44,7 @@
 
 # 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Moving from an S3 Bucket to Amplify Hosting](https://mikesheehy.hashnode.dev/moving-from-an-s3-bucket-to-amplify-hosting)
 - [Building a Web Application Using Amazon Q](https://mikesheehy.hashnode.dev/building-a-web-application-using-amazon-q)
 - [Installing Git and Syncing with GitHub](https://mikesheehy.hashnode.dev/installing-git-and-syncing-with-github)
 <!-- BLOG-POST-LIST:END -->
