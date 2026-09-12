@@ -44,6 +44,9 @@
 
 # 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Trim Your AWS Bill: Migrating a Static Site from Amplify to S3](https://mikesheehyblog.wordpress.com/2026/04/11/trim-your-aws-bill-migrating-a-static-site-from-amplify-to-s3/)
+- [Moving from an S3 Bucket to Amplify Hosting](https://mikesheehyblog.wordpress.com/2025/01/31/moving-from-an-s3-bucket-to-amplify-hosting/)
+- [Building a Web Application Using Amazon Q](https://mikesheehyblog.wordpress.com/2024/11/23/building-a-web-application-using-amazon-q/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Placeholder for porfolio pieces
