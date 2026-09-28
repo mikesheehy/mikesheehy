@@ -92,9 +92,9 @@ Verified badges on [Credly](https://www.credly.com/users/mikesheehy/badges/credl
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Leveling Up on Generative AI: A Look at AWS Cloud Quest’s Generative AI Practitioner Training](https://mikesheehyblog.wordpress.com/2026/09/23/leveling-up-on-generative-ai-a-look-at-aws-cloud-quests-generative-ai-practitioner-training/)
 - [Trim Your AWS Bill: Migrating a Static Site from Amplify to S3](https://mikesheehyblog.wordpress.com/2026/04/11/trim-your-aws-bill-migrating-a-static-site-from-amplify-to-s3/)
 - [Moving from an S3 Bucket to Amplify Hosting](https://mikesheehyblog.wordpress.com/2025/01/31/moving-from-an-s3-bucket-to-amplify-hosting/)
-- [Building a Web Application Using Amazon Q](https://mikesheehyblog.wordpress.com/2024/11/23/building-a-web-application-using-amazon-q/)
 <!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://mikesheehyblog.wordpress.com/)
